@@ -1,0 +1,96 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+
+
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraylistAdd",
+            "request": "launch",
+            "mainClass": "ArraylistAdd",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "Mazimum",
+            "request": "launch",
+            "mainClass": "TwoDarray.Mazimum",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "Storemarksandroll",
+            "request": "launch",
+            "mainClass": "TwoDarray.Storemarksandroll",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "Takinginput",
+            "request": "launch",
+            "mainClass": "TwoDarray.Takinginput",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "sumoftwoD",
+            "request": "launch",
+            "mainClass": "TwoDarray.sumoftwoD",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "basicofarraylist",
+            "request": "launch",
+            "mainClass": "basicofarraylist",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "copyofarray",
+            "request": "launch",
+            "mainClass": "copyofarray",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "sortzeroonetwo",
+            "request": "launch",
+            "mainClass": "gsdfsf.sortzeroonetwo",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "reversearr",
+            "request": "launch",
+            "mainClass": "reversearr",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "sortzeroes",
+            "request": "launch",
+            "mainClass": "sortzeroes",
+            "projectName": "ARRAY_c5a3c02e"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "ARRAY_c5a3c02e"
+        }
+    ]
+}
